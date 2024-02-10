@@ -4,9 +4,8 @@
 
 <p>
 <a href="#description">Description</a> •
-<a href="#tecnologias-utilizadas-na-construção-do-projeto">Tecnologias</a> •
-<a href="#funcionalidades-do-projeto">Funcionalidades</a> •
-<a href="#conceitos-explorados-no-projeto">Conceitos Explorados</a>
+<a href="#technologies">Technologies</a> •
+<a href="#functionalities">Functionalities</a>
 </p>
 
 ## Description
@@ -29,4 +28,4 @@ Christmas tree made entirely with HTML, CSS and JavaScript.
 
 ![Gif showing how the application works](./assets/tree-gif.gif)
 
-To see more about how the application works, visit:
+[To see more about how the application works, visit:](https://youtu.be/xx36PH4ZL3E)
